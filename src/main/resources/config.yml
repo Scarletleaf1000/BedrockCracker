@@ -1,0 +1,4 @@
+#Config for bedrock cracker
+
+#Whether you want to have the bedrock cracker craftable
+CraftableCracker: true

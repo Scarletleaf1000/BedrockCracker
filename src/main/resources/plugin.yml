@@ -3,4 +3,11 @@ version: '${project.version}'
 main: me.scarletleaf1000.bedrockCracker.BedrockCracker
 api-version: '1.21'
 authors: [ ScarletLeaf1000 ]
-description: A plugin that allows you to break bedrock 
+description: A plugin that allows you to break bedrock
+commands:
+  bedrockcracker:
+    aliases: [bc, bcgive, cracker]
+    permission: bedrockcracker.give
+permissions:
+  bedrockcracker.give:
+    default: op
