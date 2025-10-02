@@ -1,0 +1,6 @@
+name: BedrockCracker
+version: '${project.version}'
+main: me.scarletleaf1000.bedrockCracker.BedrockCracker
+api-version: '1.21'
+authors: [ ScarletLeaf1000 ]
+description: A plugin that allows you to break bedrock 
